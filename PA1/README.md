@@ -25,3 +25,13 @@ Additional Notes For OSX Users
 ------------------------------
 
 Ensure that the latest version of the Developer Tools is installed.
+
+This program displays a cube moving in a circle, and
+the assignment was to make the cube rotate about its y 
+axis while moving in the circle. I also separated the 
+shader loading from the program by creating a separate 
+shader class with a shader loading function.
+
+Compile:
+	Navigate to build folder and make.
+	Run executable from bin.
