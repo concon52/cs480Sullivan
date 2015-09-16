@@ -1,0 +1,2 @@
+You should see a color cube in orbit, rotating, and another smaller cube orbiting and rotating around the bigger cube.
+Dynamic text at bottom of screen shows each cubes rotation direction. (Extra Credit).
