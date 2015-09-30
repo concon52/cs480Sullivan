@@ -1,0 +1,1 @@
+You should see the loaded model with a smaller version of that model orbiting the larger one like a moon.
